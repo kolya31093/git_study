@@ -1,2 +1,2 @@
 <? 
-print "goodby";
+print "goodby my friend";
